@@ -1,19 +1,12 @@
-# Aman Pathak — Resume Overview
+# Hi 👋, I'm Aman Pathak
 
-This repository provides a concise resume-style summary for Aman Pathak, a B.Tech Computer Science student with experience in software development, data analytics, and business intelligence.
+## 🚀 About Me
 
----
-
-## 🎯 Professional Summary
-
-A motivated and adaptable developer with hands-on experience in full-stack web development and analytics. Strong interest in business analytics, AI, and data-driven decision-making, supported by practical project work and internship experience.
-
----
-
-## 🎓 Education
-
-* B.Tech in Computer Science and Engineering
-* Bharati Vidyapeeth College of Engineering, Pune
+* 🎓 B.Tech CSE Student at Bharati Vidyapeeth College of Engineering, Pune
+* 📊 Aspiring Business Analyst & Data Analyst
+* 💻 Full-Stack Developer with experience in React.js, Node.js, Flask, and MongoDB
+* 📈 Interested in Data Analytics, Power BI, AI, and Business Intelligence
+* 🌱 Currently learning Advanced Data Analytics and Business Intelligence
 
 ---
 
@@ -21,56 +14,56 @@ A motivated and adaptable developer with hands-on experience in full-stack web d
 
 ### Frontend Developer – Freelance
 
-* Designed and delivered a discount coupon platform using React.js and Material UI
-* Developed user-facing dashboards for customers, vendors, and administrators
-* Communicated with international clients to translate requirements into working solutions
+* Developed a discount coupon platform using React.js and Material UI
+* Built customer, vendor, and admin dashboards
+* Worked with remote international clients
 
 ### Software Developer Intern – Blotic
 
-* Contributed to scalable community-based platform development
-* Participated in the software development lifecycle, including planning, implementation, and testing
+* Worked on scalable community-based platforms
+* Collaborated with development teams across SDLC
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 Java | JavaScript | Python | SQL | HTML | CSS
 
 ### Frameworks & Tools
 
-React.js | Node.js | Express.js | Flask | MongoDB | Power BI | Pandas | Scikit-learn | Git
+React.js | Node.js | Express.js | Flask | MongoDB | Pandas | Scikit-learn | Git | Power BI
 
-### Environments & Platforms
+### Developer Tools
 
 VS Code | Jupyter Notebook | Google Colab | Vercel | Render
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### Intelligent Finance Tracker
 
-* Built an expense prediction dashboard using Flask, React.js, and Scikit-learn
-* Applied machine learning techniques to generate insights from financial data
+* ML-based expense prediction dashboard
+* Flask + React.js + Scikit-learn
 
 ### Trip Tales
 
-* Created a travel booking and planning platform using the MERN stack
-* Implemented responsive UI and dynamic data flows for user interactions
+* Travel booking and planning platform
+* MERN Stack Project
 
 ### Live Weather Dashboard
 
-* Developed a real-time weather dashboard with OpenWeatherMap API integration
+* Real-time weather updates using OpenWeatherMap API
 
 ### Premium E-commerce Platform
 
-* Built a responsive e-commerce store with cart, product listings, and checkout functionality
+* Responsive product store with cart and checkout
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-* LinkedIn:https://www.linkedin.com/in/aman-pathak-4236a8244/
-* Email: amanpathak03@gmail.com
+* LinkedIn: linkedin.com/in/amanpathak
+* Email: [amanpathak03@gmail.com](mailto:amanpathak03@gmail.com)
