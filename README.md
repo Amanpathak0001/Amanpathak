@@ -1,69 +1,69 @@
-# Hi 👋, I'm Aman Pathak
+# Hi 👋 I’m Aman Pathak
 
-## 🚀 About Me
+## About Me
 
-* 🎓 B.Tech CSE Student at Bharati Vidyapeeth College of Engineering, Pune
-* 📊 Aspiring Business Analyst & Data Analyst
-* 💻 Full-Stack Developer with experience in React.js, Node.js, Flask, and MongoDB
-* 📈 Interested in Data Analytics, Power BI, AI, and Business Intelligence
-* 🌱 Currently learning Advanced Data Analytics and Business Intelligence
+I turn ideas into working software and data-driven insights. Currently pursuing B.Tech in Computer Science at Bharati Vidyapeeth College of Engineering, Pune, I combine full-stack development with analytics to build user-friendly applications and business intelligence solutions.
 
----
-
-## 💼 Experience
-
-### Frontend Developer – Freelance
-
-* Developed a discount coupon platform using React.js and Material UI
-* Built customer, vendor, and admin dashboards
-* Worked with remote international clients
-
-### Software Developer Intern – Blotic
-
-* Worked on scalable community-based platforms
-* Collaborated with development teams across SDLC
+- 🎯 Passionate about Business Analytics, Data Analytics, AI, and product thinking
+- 💻 Experienced in React.js, Node.js, Flask, MongoDB, and Python
+- 📊 Comfortable building dashboards, data pipelines, ML-supported applications, and interactive web experiences
+- 🌱 Currently exploring advanced analytics, Power BI, and intelligent automation
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-### Languages
+### Full-stack apps
+Create polished, responsive web applications using modern frontend frameworks, REST APIs, and database integrations.
 
-Java | JavaScript | Python | SQL | HTML | CSS
+### Data products
+Build meaningful dashboards, analytics flows, and ML-powered reporting tools that help teams make smarter decisions.
 
-### Frameworks & Tools
-
-React.js | Node.js | Express.js | Flask | MongoDB | Pandas | Scikit-learn | Git | Power BI
-
-### Developer Tools
-
-VS Code | Jupyter Notebook | Google Colab | Vercel | Render
+### Business solutions
+Develop systems for inventory, finance, operations, and customer workflows with strong usability and performance.
 
 ---
 
-## 📌 Featured Projects
+## Key Highlights
+
+- Built an end-to-end coupon platform with customer, vendor, and admin dashboards
+- Delivered a community-driven solution during a software developer internship at Blotic
+- Worked with international clients to ship production-quality frontend experiences
+- Strong foundation in SQL, Python, data visualization, and cloud deployment
+
+---
+
+## Tech Stack
+
+**Languages:** Java · JavaScript · Python · SQL · HTML · CSS
+
+**Frontend:** React.js · Material UI · Bootstrap · Tailwind CSS
+
+**Backend:** Node.js · Express.js · Flask · REST APIs
+
+**Data & Analytics:** MongoDB · Pandas · Scikit-learn · Power BI · OpenWeatherMap API
+
+**Tools:** Git · VS Code · Jupyter Notebook · Google Colab · Vercel · Render
+
+---
+
+## Featured Projects
 
 ### Intelligent Finance Tracker
-
-* ML-based expense prediction dashboard
-* Flask + React.js + Scikit-learn
+A predictive expense dashboard with ML-driven insights and interactive reporting.
 
 ### Trip Tales
-
-* Travel booking and planning platform
-* MERN Stack Project
+A complete travel planning and booking experience built with the MERN stack.
 
 ### Live Weather Dashboard
-
-* Real-time weather updates using OpenWeatherMap API
+Real-time weather updates and forecasting using the OpenWeatherMap API.
 
 ### Premium E-commerce Platform
-
-* Responsive product store with cart and checkout
+A responsive storefront with product browsing, cart management, and checkout workflows.
 
 ---
 
-## 📫 Connect With Me
+## Let’s Connect
 
-* LinkedIn: linkedin.com/in/amanpathak
-* Email: [amanpathak03@gmail.com](mailto:amanpathak03@gmail.com)
+- LinkedIn: https://linkedin.com/in/amanpathak
+- Email: [amanpathak03@gmail.com](mailto:amanpathak03@gmail.com)
