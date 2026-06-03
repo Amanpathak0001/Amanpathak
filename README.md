@@ -67,3 +67,4 @@ A responsive storefront with product browsing, cart management, and checkout wor
 
 - LinkedIn: https://linkedin.com/in/amanpathak
 - Email: [amanpathak03@gmail.com](mailto:amanpathak03@gmail.com)
+- GitHub:https://github.com/Amanpathak0001
